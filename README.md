@@ -1,6 +1,5 @@
 # Chatbot-using-Python
 a simple chatbot using bard's API
-# Chatbot Application
 
 ## How to Run
 
@@ -21,6 +20,3 @@ If the application does not run:
 - Ensure you are using a compatible version of Windows.
 - Check for any error messages and ensure your system meets the requirements.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
